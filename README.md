@@ -61,19 +61,7 @@ no friend ever installs it.
   bundled illustrations as an offline fallback. The car is sized from its real height and measured so it stands on the floor.
 - **Maps.** Real Apple Maps routes. Sample and simulated routes follow real streets (route data from OpenStreetMap contributors via OSRM, ODbL).
 
-## Honest status: what is verified and what is not
 
-| Area | Status |
-| --- | --- |
-| Today, Drives, Recap, Park, Plans, Garage screens, SwiftData storage | Built and checked in the iOS simulator |
-| Trip detection logic | Unit-tested with scripted sensor data. **Not yet tested with real sensors on a phone** |
-| "Simulate a drive" (Settings, Developer) | Replays fake sensor data along a real route to demo detection. It does not prove real detection works |
-| AI parking feedback | Request and response handling tested against a mock. **Not yet verified against the live service**, which needs your own key |
-| Plate covering | Tested: boxed areas become solid black and replace the saved photo |
-| Garage background removal | Works on a Mac. **Vision's model does not run in the simulator and hasn't been tried on a physical iPhone** |
-| Notifications, camera, share sheet to WhatsApp | Need a real iPhone |
-| Sample data | Clearly marked sample data (drives, a car, parking checks, a plan). The sample parking feedback is hand-written, not AI output |
-| Background detection, accounts, cross-device plans | Not built. Out of scope for this prototype |
 
 ## Try it
 
