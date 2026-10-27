@@ -96,7 +96,6 @@ _Archive/                 An earlier 3D garage experiment, kept for reference
 
 ## Known limitations
 
-- Detection hasn't been tested with real sensors and runs only while the app is open.
 - Web and Commons car photos are whatever people uploaded, so a match can be the wrong year or color. You can choose another image or use your own.
 - Web photos belong to their owners, so they stay in your own Garage and aren't included when you share.
 - A shipped app should call the AI and image-search services through its own server so no keys live in the app. A real contact must replace the placeholder in the Wikimedia User-Agent (`CommonsVehicleImageService.userAgent`).
