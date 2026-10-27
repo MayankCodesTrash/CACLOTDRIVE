@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "name": "LOT starter library (Kenney Car Kit, CC0)",
+  "models": [
+    {
+      "id": "kenney-sedan",
+      "name": "Sedan",
+      "bodyStyle": "sedan",
+      "make": null,
+      "model": null,
+      "file": "kenney-sedan.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          384,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 104959,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    },
+    {
+      "id": "kenney-sedan-sports",
+      "name": "Sports sedan",
+      "bodyStyle": "coupe",
+      "make": null,
+      "model": null,
+      "file": "kenney-sedan-sports.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          384,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 109279,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    },
+    {
+      "id": "kenney-hatchback-sports",
+      "name": "Hatchback",
+      "bodyStyle": "hatchback",
+      "make": null,
+      "model": null,
+      "file": "kenney-hatchback-sports.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          192,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 109223,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    },
+    {
+      "id": "kenney-suv",
+      "name": "SUV",
+      "bodyStyle": "suv",
+      "make": null,
+      "model": null,
+      "file": "kenney-suv.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          192,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 123986,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    },
+    {
+      "id": "kenney-suv-luxury",
+      "name": "Luxury SUV",
+      "bodyStyle": "suv",
+      "make": null,
+      "model": null,
+      "file": "kenney-suv-luxury.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          256,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 108570,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    },
+    {
+      "id": "kenney-truck",
+      "name": "Pickup truck",
+      "bodyStyle": "pickup",
+      "make": null,
+      "model": null,
+      "file": "kenney-truck.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          192,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 107895,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    },
+    {
+      "id": "kenney-taxi",
+      "name": "Taxi",
+      "bodyStyle": "sedan",
+      "make": null,
+      "model": null,
+      "file": "kenney-taxi.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          256,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 107012,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    },
+    {
+      "id": "kenney-van",
+      "name": "Van",
+      "bodyStyle": "van",
+      "make": null,
+      "model": null,
+      "file": "kenney-van.usdz",
+      "texture": "lot-palette.png",
+      "paintRegions": [
+        [
+          448,
+          128,
+          64,
+          128
+        ]
+      ],
+      "sizeBytes": 107938,
+      "license": "CC0 1.0",
+      "author": "Kenney (kenney.nl)",
+      "sourceURL": "https://kenney.nl/assets/car-kit",
+      "attributionRequired": false
+    }
+  ]
+}
